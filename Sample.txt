@@ -1,0 +1,2 @@
+This is a Sample Text.
+New line is addded after staging
