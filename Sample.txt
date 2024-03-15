@@ -1,2 +1,4 @@
 This is a Sample Text.
 New line is addded after staging
+
+This is being modified after commit
